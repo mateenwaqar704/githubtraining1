@@ -3,3 +3,6 @@ Email
 Type option
 colors
 vibrant
+
+Dark mode
+video calss
